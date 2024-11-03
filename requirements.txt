@@ -20,10 +20,12 @@ python-dateutil==2.9.0.post0
 pytz==2024.2
 scipy==1.10.1
 six==1.16.0
-scikit-learn>=1.0.2
+scikit-learn>=1.0.2,<1.4
 tzdata==2024.2
 Werkzeug==3.0.6
 scikit-learn==1.0.2      
 requests==2.26.0         
 flask-cors==3.0.10        
 gunicorn==20.1.0        
+Cython==0.29.36
+pip==24.3.1
